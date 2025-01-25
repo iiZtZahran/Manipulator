@@ -1,0 +1,58 @@
+[0.015s] Invoking command in '/home/zahran/Desktop/manipulator_ws/build/manipulator_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/zahran/Desktop/manipulator_ws/src/manipulator_description -DCMAKE_INSTALL_PREFIX=/home/zahran/Desktop/manipulator_ws/install/manipulator_description
+[0.077s] -- The C compiler identification is GNU 13.1.0
+[0.144s] -- The CXX compiler identification is GNU 13.1.0
+[0.152s] -- Detecting C compiler ABI info
+[0.240s] -- Detecting C compiler ABI info - done
+[0.248s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.248s] -- Detecting C compile features
+[0.248s] -- Detecting C compile features - done
+[0.251s] -- Detecting CXX compiler ABI info
+[0.344s] -- Detecting CXX compiler ABI info - done
+[0.349s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.349s] -- Detecting CXX compile features
+[0.350s] -- Detecting CXX compile features - done
+[0.351s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.461s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.520s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.573s] -- Added test 'lint_cmake' to check CMake code style
+[0.575s] -- Added test 'xmllint' to check XML markup files
+[0.576s] -- Configuring done
+[0.579s] -- Generating done
+[0.580s] -- Build files have been written to: /home/zahran/Desktop/manipulator_ws/build/manipulator_description
+[0.584s] Invoked command in '/home/zahran/Desktop/manipulator_ws/build/manipulator_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/zahran/Desktop/manipulator_ws/src/manipulator_description -DCMAKE_INSTALL_PREFIX=/home/zahran/Desktop/manipulator_ws/install/manipulator_description
+[0.585s] Invoking command in '/home/zahran/Desktop/manipulator_ws/build/manipulator_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zahran/Desktop/manipulator_ws/build/manipulator_description -- -j16 -l16
+[0.620s] Invoked command in '/home/zahran/Desktop/manipulator_ws/build/manipulator_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zahran/Desktop/manipulator_ws/build/manipulator_description -- -j16 -l16
+[0.629s] Invoking command in '/home/zahran/Desktop/manipulator_ws/build/manipulator_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zahran/Desktop/manipulator_ws/build/manipulator_description
+[0.635s] -- Install configuration: ""
+[0.635s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/meshes
+[0.635s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/meshes/basement.STL
+[0.636s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/meshes/triangular_link.STL
+[0.637s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/meshes/plate.STL
+[0.639s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/meshes/vertical_drive_arm.STL
+[0.641s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/meshes/base_plate.STL
+[0.644s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/meshes/servo_plate.STL
+[0.644s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/meshes/left_finger.STL
+[0.644s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/meshes/right_finger.STL
+[0.645s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/meshes/claw_support.STL
+[0.645s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/meshes/link.STL
+[0.646s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/meshes/round_plate.STL
+[0.647s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/meshes/horizontal_arm.STL
+[0.649s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/meshes/forward_drive_arm.STL
+[0.651s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/urdf
+[0.651s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/urdf/bot.urdf.xacro
+[0.651s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/ament_index/resource_index/package_run_dependencies/manipulator_description
+[0.652s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/ament_index/resource_index/parent_prefix_path/manipulator_description
+[0.652s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/environment/ament_prefix_path.sh
+[0.652s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/environment/ament_prefix_path.dsv
+[0.652s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/environment/path.sh
+[0.652s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/environment/path.dsv
+[0.652s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/local_setup.bash
+[0.652s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/local_setup.sh
+[0.652s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/local_setup.zsh
+[0.652s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/local_setup.dsv
+[0.653s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/package.dsv
+[0.653s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/ament_index/resource_index/packages/manipulator_description
+[0.653s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/cmake/manipulator_descriptionConfig.cmake
+[0.653s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/cmake/manipulator_descriptionConfig-version.cmake
+[0.653s] -- Installing: /home/zahran/Desktop/manipulator_ws/install/manipulator_description/share/manipulator_description/package.xml
+[0.655s] Invoked command in '/home/zahran/Desktop/manipulator_ws/build/manipulator_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zahran/Desktop/manipulator_ws/build/manipulator_description

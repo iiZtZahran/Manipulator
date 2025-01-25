@@ -1,0 +1,23 @@
+[0.526s] Invoking command in '/home/zahran/Desktop/manipulator_ws/src/manipulator_py': PYTHONPATH=/home/zahran/Desktop/manipulator_ws/build/manipulator_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zahran/Desktop/manipulator_ws/install/manipulator_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/manipulator_py build --build-base /home/zahran/Desktop/manipulator_ws/build/manipulator_py/build install --record /home/zahran/Desktop/manipulator_ws/build/manipulator_py/install.log --single-version-externally-managed install_data
+[0.690s] running egg_info
+[0.690s] writing ../../build/manipulator_py/manipulator_py.egg-info/PKG-INFO
+[0.691s] writing dependency_links to ../../build/manipulator_py/manipulator_py.egg-info/dependency_links.txt
+[0.691s] writing entry points to ../../build/manipulator_py/manipulator_py.egg-info/entry_points.txt
+[0.691s] writing requirements to ../../build/manipulator_py/manipulator_py.egg-info/requires.txt
+[0.691s] writing top-level names to ../../build/manipulator_py/manipulator_py.egg-info/top_level.txt
+[0.694s] reading manifest file '../../build/manipulator_py/manipulator_py.egg-info/SOURCES.txt'
+[0.694s] writing manifest file '../../build/manipulator_py/manipulator_py.egg-info/SOURCES.txt'
+[0.695s] running build
+[0.695s] running build_py
+[0.695s] running install
+[0.695s] running install_lib
+[0.696s] running install_data
+[0.696s] running install_egg_info
+[0.697s] removing '/home/zahran/Desktop/manipulator_ws/install/manipulator_py/lib/python3.10/site-packages/manipulator_py-0.0.0-py3.10.egg-info' (and everything under it)
+[0.697s] Copying ../../build/manipulator_py/manipulator_py.egg-info to /home/zahran/Desktop/manipulator_ws/install/manipulator_py/lib/python3.10/site-packages/manipulator_py-0.0.0-py3.10.egg-info
+[0.698s] running install_scripts
+[0.712s] Installing simple_parameter script to /home/zahran/Desktop/manipulator_ws/install/manipulator_py/lib/manipulator_py
+[0.712s] Installing simple_publisher script to /home/zahran/Desktop/manipulator_ws/install/manipulator_py/lib/manipulator_py
+[0.712s] Installing simple_subscriber script to /home/zahran/Desktop/manipulator_ws/install/manipulator_py/lib/manipulator_py
+[0.712s] writing list of installed files to '/home/zahran/Desktop/manipulator_ws/build/manipulator_py/install.log'
+[0.731s] Invoked command in '/home/zahran/Desktop/manipulator_ws/src/manipulator_py' returned '0': PYTHONPATH=/home/zahran/Desktop/manipulator_ws/build/manipulator_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zahran/Desktop/manipulator_ws/install/manipulator_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/manipulator_py build --build-base /home/zahran/Desktop/manipulator_ws/build/manipulator_py/build install --record /home/zahran/Desktop/manipulator_ws/build/manipulator_py/install.log --single-version-externally-managed install_data
